@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>components/Notification.qml</file>
+        <file>fonts/Roboto-Light.ttf</file>
+        <file>fonts/Roboto-Medium.ttf</file>
+        <file>material/Button.qml</file>
+        <file>material/Card.qml</file>
+        <file>material/ColorButton.qml</file>
+        <file>material/FloatingButton.qml</file>
+        <file>material/Input.qml</file>
+        <file>material/MatText.qml</file>
+        <file>material/PaperRipple.qml</file>
+        <file>material/Spacer.qml</file>
+        <file>icons/Minimize.png</file>
+        <file>components/ToolBar.qml</file>
+        <file>icons/Close.png</file>
+        <file>icons/notification.png</file>
+    </qresource>
+</RCC>
